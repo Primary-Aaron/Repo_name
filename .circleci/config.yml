@@ -1,4 +1,5 @@
 version: 2.1
+store_test_results
 
 orbs:
   # The python orb contains a set of prepackaged CircleCI configuration you can use repeatedly in your configuration files
